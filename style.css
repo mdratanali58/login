@@ -102,10 +102,7 @@ p{
    color: #607d8b;
 }
 a {
-   color:#607d8b;
-a:hover {
-    color: #e91e63;
-}
+   color:#607d8b; }
 
 @media (max-width: 768px) 
 {
